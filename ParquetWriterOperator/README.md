@@ -1,7 +1,7 @@
 # ParquetWriter operator #
 This custom operator creates a file in Parquet format from an input message. For more information on the Parquet format see https://parquet.apache.org/
 
-It is based on Python 2.7 and was tested with Data Hub version 2.4.
+It is based on Python 2.7 and was tested with Data Hub version 2.5.
 
 ![alt text](./graph.png "Graph")
 
